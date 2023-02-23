@@ -12,7 +12,7 @@ allowing screen readers to communicate the content to users who are unable to se
 
 - Additionally, we used <b>*"Tab Index"*</b> attributes to allow users to tab throught content and reveal <br />
 information that otherwise would not have been seen due to css hover animations.<br />
-provides a text description of the button's purpose, making it easier for screen readers to understand the button's function. <br /><br />
+
 - Finally, we used descriptive class names and id values, which can also help screen readers understand the structure <br />
 and content of the page. This makes it easier for users to navigate the page using their screen reader and find the <br />
 information they need more quickly and efficiently.
