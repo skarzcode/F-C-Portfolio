@@ -5,6 +5,8 @@ This screenshot shows that we incorporated semantic elements in our HTML, includ
 
 ## 2. Ensure a web page is readable for screen readers
 We aimed to make the website usable by all, including those with disabilities, and to achieve this goal, we employed various techniques to enhance the content's readability for screen readers, thus improving the site's accessibility.
+![Screenshot of First accessibility methods]](https://user-images.githubusercontent.com/85761315/220909408-8fb7a9a1-0759-4cd9-8063-b613410d21a2.png)
+
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
