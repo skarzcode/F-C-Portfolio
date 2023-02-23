@@ -52,5 +52,5 @@ An brief excerpt from the commit history of a single file::
 
 ## 9. Use the appropriate input types in HTML forms for gathering different types of information
 ![Screenshot of Input types](https://user-images.githubusercontent.com/85761315/220929559-9ed5a223-092a-4744-b6a8-23ef8ae4b9e6.png)
-We designed the form to enhance accessibility, user experience, and semantic meaning of the form data, while also reducing the likelihood of invalid or incorrect data submissions. This approach improves the overall reliability and usability of the form.<br>
+We designed the form to enhance accessibility, user experience, and semantic meaning of the form data, while also reducing the likelihood of invalid or incorrect data submissions. This approach improves the overall reliability and usability of the form.<br><br>
 Furthermore, we incorporated appropriate input types, which assist screen readers and other assistive technologies in interpreting the form's purpose and structure, ultimately enhancing accessibility for users with disabilities.
