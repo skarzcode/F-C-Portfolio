@@ -10,7 +10,7 @@ We aimed to make the website usable by all, including those with disabilities, a
 - We used appropriate <b>"alt"</b> attributes for images to provide a brief and clear descriptions, <br />
 allowing screen readers to communicate the content to users who are unable to see the image.<br /> <br />
 
-- Additionally, we used *Tab Index* attributes to allow users to tab throught content and reveal <br />
+- Additionally, we used <b>*"Tab Index"*</b> attributes to allow users to tab throught content and reveal <br />
 information that otherwise would not have been seen due to css hover animations.<br />
 provides a text description of the button's purpose, making it easier for screen readers to understand the button's function. <br /><br />
 - Finally, we used descriptive class names and id values, which can also help screen readers understand the structure <br />
