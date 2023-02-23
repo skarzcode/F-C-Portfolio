@@ -34,8 +34,10 @@ For each section of the page, we selected complementary colors that had a suffic
 
 To guarantee that users can easily read and navigate the content on any screen size, we utilized media queries to adjust the layout, font size, and other styles. Our aim was to ensure that the page is always presented effectively on screens of varying sizes, delivering an optimal user experience for all.
 
-
 ## 6. Use CSS variables to apply repeated colours to HTML elements
+
+[![Screenshot of CSS variables](https://user-images.githubusercontent.com/85761315/220921630-13a1e477-32e5-45da-8d96-5abb1699d6ca.png)
+
 
 ## 7. Use CSS Flexbox to style children in a single-direction layout (ie a row or a column)
 
