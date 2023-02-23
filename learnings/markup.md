@@ -20,18 +20,27 @@ information they need more quickly and efficiently.
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
+For each section of the page, we selected complementary colors that had a sufficient contrast ratio. We made sure that the background color contrasted well with the text color, as well as with the foreground.
+
 ## 4. Use various tools to check that our website meets accessibility criteria
+- Throughout the development process, we consistently used Google Chrome's Lighthouse tool to audit and improve the quality and performance of the page. By doing so, we were able to identify areas for improvement. Our accessibility rating currently stands at 98% and got a Best practise rating of 100%.
+
+- We conducted keyboard testing to verify that all website functionality could be accessed solely through keyboard navigation. This involved manually navigating all sections of the web page using only our keyboards.
+
+- We utilized the screen reader tools available on both Windows and Mac systems to simulate how the web page would be read aloud to users with visual impairments. This allowed us to identify areas that required improvement and address them during development.
 
 ## 5. Use CSS media queries to ensure our content is always presented effectively on screens of different sizes
+[![Screenshot of media queries](https://user-images.githubusercontent.com/85761315/220918561-f9be69ec-6c88-4a2e-bd77-12428cfd29c9.png)
 
-## 6. Demonstrate a mobile-first approach to building a website
+To guarantee that users can easily read and navigate the content on any screen size, we utilized media queries to adjust the layout, font size, and other styles. Our aim was to ensure that the page is always presented effectively on screens of varying sizes, delivering an optimal user experience for all.
 
-## 7. Use CSS variables to apply repeated colours to HTML elements
 
-## 8. Use CSS Flexbox to style children in a single-direction layout (ie a row or a column)
+## 6. Use CSS variables to apply repeated colours to HTML elements
 
-## 9. Use CSS Grid to style children in two-direction layout
+## 7. Use CSS Flexbox to style children in a single-direction layout (ie a row or a column)
 
-## 10. Ensure our Git commit history tells a coherent story
+## 8. Use CSS Grid to style children in two-direction layout
 
-## 11. Use the appropriate input types in HTML forms for gathering different types of information
+## 9. Ensure our Git commit history tells a coherent story
+
+## 10. Use the appropriate input types in HTML forms for gathering different types of information
