@@ -9,8 +9,9 @@ We aimed to make the website usable by all, including those with disabilities, a
 
 - We used appropriate <b>"alt"</b> attributes for images to provide a brief and clear descriptions, <br />
 allowing screen readers to communicate the content to users who are unable to see the image.<br /> <br />
-- Additionally, we used *ARIA (Accessible Rich Internet Applications)* attributes to provide additional <br />
-information about the content and its behavior. For example, the "aria-label" attribute on the "button" element <br />
+
+- Additionally, we used *Tab Index* attributes to allow users to tab throught content and reveal <br />
+information that otherwise would not have been seen due to css hover animations.<br />
 provides a text description of the button's purpose, making it easier for screen readers to understand the button's function. <br /><br />
 - Finally, we used descriptive class names and id values, which can also help screen readers understand the structure <br />
 and content of the page. This makes it easier for users to navigate the page using their screen reader and find the <br />
