@@ -1,6 +1,10 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
+![Screenshot of First Project](https://user-images.githubusercontent.com/85761315/220893516-69588970-14de-4071-a69f-cac7c0887028.png)
+
+This screenshot shows that we incorporated semantic elements in our HTML, including demarcating each section so that it can be tabbed through by the user, as well as H1 and H2 headings in the correct order, which ensured that they would be read out by a screen reader (see below). In addition, we used alt-tags on each image. Being able to tab through the site is especially important for those with sight access requirements, our goal was to minimise the use of div unless we really needed to and utilise other semantic HTML which i believe we achieved but definitely belive we can go back and refactor some of those divs.
 
 ## 2. Ensure a web page is readable for screen readers
+We aimed to make the website usable by all, including those with disabilities, and to achieve this goal, we employed various techniques to enhance the content's readability for screen readers, thus improving the site's accessibility.
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
