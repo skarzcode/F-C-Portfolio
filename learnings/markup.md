@@ -47,5 +47,7 @@ By using CSS variables for our colors, we could update them in a single place, r
 We established fundamental flex layout classes in our CSS to style children in a singular direction, and we applied these classes to our HTML elements. This allowed us to manage the alignment of flex items along both the main and cross axes.
 
 ## 8. Ensure our Git commit history tells a coherent story
+An brief excerpt from the commit history of a single file::
+![Screenshot of Git history](https://user-images.githubusercontent.com/85761315/220927160-1810499a-30f8-4b71-8a31-62e19951e476.png)
 
 ## 9. Use the appropriate input types in HTML forms for gathering different types of information
