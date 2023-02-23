@@ -6,7 +6,15 @@ This screenshot shows that we incorporated semantic elements in our HTML, includ
 ## 2. Ensure a web page is readable for screen readers
 We aimed to make the website usable by all, including those with disabilities, and to achieve this goal, we employed various techniques to enhance the content's readability for screen readers, thus improving the site's accessibility.
 [![Screenshot of First accessibility methods](https://user-images.githubusercontent.com/85761315/220909788-26117c77-1805-47c7-8f0d-f3e6518efe95.png)
-)
+
+- We used appropriate <b>"alt"</b> attributes for images to provide a brief and clear descriptions, <br />
+allowing screen readers to communicate the content to users who are unable to see the image.<br /> <br />
+- Additionally, we used *ARIA (Accessible Rich Internet Applications)* attributes to provide additional <br />
+information about the content and its behavior. For example, the "aria-label" attribute on the "button" element <br />
+provides a text description of the button's purpose, making it easier for screen readers to understand the button's function. <br /><br />
+- Finally, we used descriptive class names and id values, which can also help screen readers understand the structure <br />
+and content of the page. This makes it easier for users to navigate the page using their screen reader and find the <br />
+information they need more quickly and efficiently.
 
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
